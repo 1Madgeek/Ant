@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ant</string>
+    <string name="exit">Exit</string>
+    <string name="exit_message">Do you really want to exit?</string>
+</resources>
